@@ -1,0 +1,12 @@
+D:\Blog.Web\Blog.Framework\bin\Debug\netcoreapp3.1\Blog.Framework.deps.json
+D:\Blog.Web\Blog.Framework\bin\Debug\netcoreapp3.1\Blog.Framework.dll
+D:\Blog.Web\Blog.Framework\bin\Debug\netcoreapp3.1\Blog.Framework.pdb
+D:\Blog.Web\Blog.Framework\bin\Debug\netcoreapp3.1\Blog.Data.dll
+D:\Blog.Web\Blog.Framework\bin\Debug\netcoreapp3.1\Blog.Data.pdb
+D:\Blog.Web\Blog.Framework\obj\Debug\netcoreapp3.1\Blog.Framework.csprojAssemblyReference.cache
+D:\Blog.Web\Blog.Framework\obj\Debug\netcoreapp3.1\Blog.Framework.csproj.CoreCompileInputs.cache
+D:\Blog.Web\Blog.Framework\obj\Debug\netcoreapp3.1\Blog.Framework.AssemblyInfoInputs.cache
+D:\Blog.Web\Blog.Framework\obj\Debug\netcoreapp3.1\Blog.Framework.AssemblyInfo.cs
+D:\Blog.Web\Blog.Framework\obj\Debug\netcoreapp3.1\Blog.Framework.csproj.CopyComplete
+D:\Blog.Web\Blog.Framework\obj\Debug\netcoreapp3.1\Blog.Framework.dll
+D:\Blog.Web\Blog.Framework\obj\Debug\netcoreapp3.1\Blog.Framework.pdb
